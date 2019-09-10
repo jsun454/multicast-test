@@ -1,2 +1,2 @@
-# multicast-test
+# tv-app-test
 First test for TV app
